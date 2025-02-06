@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Basic Saas Landing Page with React js and tailwindcss
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
