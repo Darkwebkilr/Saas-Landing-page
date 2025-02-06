@@ -5,8 +5,8 @@
 
 This is a basic web project for React js.
 You can find this project design on figma.check the link
-https://www.figma.com/design/GDnrw0a7Ou8Qs5T9BeQZZW/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS-(Community)?node-id=0-1&p=f&t=UxghlMw4BllHQqhi-0
-
+[https://www.figma.com/design/GDnrw0a7Ou8Qs5T9BeQZZW/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS-(Community)?node-id=0-1&p=f&t=UxghlMw4BllHQqhi-0
+](https://www.figma.com/community/file/1091046863319888542)
 ## Available Scripts
 
 In the project directory, you can run:
